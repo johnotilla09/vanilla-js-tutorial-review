@@ -153,3 +153,18 @@
 // console.log(x, typeof x);
 // console.log(y, typeof y);
 // console.log(z, typeof z);
+
+/* CONSTANTS VARIABLE */
+
+// const PI = 3.14359;
+// let radius;
+// let circumference;
+
+// document.getElementById("mySubmit").onclick = function () {
+//     radius = document.getElementById("myText").value;
+
+//     radius = Number(radius);
+//     circumference = 2 * PI * radius;
+
+//     document.getElementById("myH3").textContent = circumference + "cm";
+// };
